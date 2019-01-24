@@ -1,3 +1,4 @@
 # gitskills
-Creating a new branch is quick and simple.
-add something again
+Creating a new branch is fast and simple.
+add something again.
+Git is a free software.
